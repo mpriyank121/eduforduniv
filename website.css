@@ -1,0 +1,199 @@
+#igfd{
+  margin: 8px;
+  color: white;
+}
+#igfd::after{
+
+  content: '';
+  width: 0px;
+  height: 2px;
+  background: red;
+  display: block;
+  margin: auto;
+  transition: 0.5s;
+
+}
+#igfd:hover::after{
+  width: 100%;
+
+}
+
+.nvm{
+  background-color: #0005;
+  height: 75px;
+}
+
+}
+}
+.lefnv{
+  display: flex;
+margin-top: 20px;
+  padding: 10px;
+
+}
+
+#mainw{
+  text-align: center;
+  margin-top: 130px;
+  font-size: 60px;
+}
+#pgrp{
+
+height: 50px;
+text-align: justify;
+display: flex;
+justify-content: center;
+
+margin-top: 50px;
+}
+#butn{
+
+  background-color: #0005;
+  border-color: white;
+  color: white;
+
+}
+.imgfd{
+  display:flex;
+
+
+}
+#left-img{
+
+  margin-right: auto;
+}
+#btn{
+  display: flex;
+  justify-content: center;
+  margin-left: 40%;
+  opacity: 0.5;
+  border-color: white;
+  height: 40px;
+  width: 200px;
+  margin-top: 90px;
+}
+
+
+
+/**About us**/
+
+.upperbox{
+background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(background.jpg);
+height: 350px;
+width: 100%;
+background-position: center;
+text-align: center;
+background-size: cover;
+}
+#abh{
+  color: white;
+  margin-top: 80px;
+  font-size: 70px
+}
+.footer{
+  display: flex;
+  justify-content: center;
+  margin-top: ;
+
+}
+#boxf{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+
+}
+.iconp{
+  display: flex;
+font-size: 40px;
+  justify-content: center;
+  margin-top: 30px;
+  padding: 10px;
+padding-left: 4px;
+}
+.medbox{
+  margin-left: 80px;
+float: left;
+  width: 500px;
+  height: 300px;
+text-align: left;
+}
+.imgnxt{
+  margin-top: 8px;
+  padding-right: 30px;
+  text-align:right;
+}
+#btnab{
+  display: flex;
+  justify-content: left;
+  text-align: center;
+  padding: 40%
+  opacity: 0.5;
+  border-color: white;
+  height: 40px;
+  width: 150px;
+  margin-top: 45px;
+
+  padding-top: 7px;
+}
+/**Courses**/
+.boxes{
+    display: flex;
+justify-content: space-around;
+border-radius: 5%
+
+}
+#boxin{
+  border-radius: 5%;
+  width: 300px;
+  height: 200px;
+  list-style-type: none;
+margin-top: 10px;
+text-align: center;
+background-color: rgb(255, 204, 204);
+
+
+
+}
+.parst{
+  justify-content: center;
+  margin-left: 4px;
+  margin-top: 4px;
+  padding: 5px;
+}
+.boxt{
+  width: 300px;
+  height: 200px;
+  list-style-type: none;
+margin-top: 10px;
+text-align: left;
+}
+.imgs{
+  margin: 50px;
+  display: flex;
+  justify-content: space-around;
+  float: left;
+  margin-left: 150px;
+}
+/**Blog **/
+
+.tbbox{
+width: 300px;
+height: 330px;
+margin-right: 150px;
+margin-top: 40px;
+
+
+}
+#tablh{
+  background-color: orange;
+}
+
+
+#head{
+  margin-top: 40px;
+}
+#btnab{
+  display: flex;
+
+  text-align: center;
+}
